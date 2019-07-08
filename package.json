@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "dummy-component": "git+https://github.com/recraftrelic/dummy-react-npm-module.git"
   },
   "scripts": {
     "start": "react-scripts start",
